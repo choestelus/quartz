@@ -1,6 +1,6 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://note.codepasta.co/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-DJ9HZX1298"
 pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
